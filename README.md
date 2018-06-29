@@ -18,3 +18,4 @@ php htmldiff.php old.html new.html > diff.html
 ```
 
 ## screenshot
+![]( php-htmldiff-docker/screenshot-sample.png )
