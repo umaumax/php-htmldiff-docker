@@ -19,3 +19,9 @@ php htmldiff.php old.html new.html > diff.html
 
 ## screenshot
 ![]( https://raw.githubusercontent.com/umaumax/php-htmldiff-docker/images/screenshot-sample.png )
+
+## NOTE
+There is a message like below one.(when dokcer build)
+```
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+```
